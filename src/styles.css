@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: aqua;
+}
+
+.weather-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px;
+}
+
+input {
+  height: 2rem;
+  width: 20rem;
+  padding: 0.2rem;
+  border: none;
+}
